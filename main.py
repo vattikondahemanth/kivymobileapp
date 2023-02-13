@@ -8,6 +8,8 @@ from kivy.uix.gridlayout import GridLayout
 from kivy.uix.textinput import TextInput
 from kivy.clock import Clock
 
+from plyer import notification
+
 
 event = None
 threshold = 57
